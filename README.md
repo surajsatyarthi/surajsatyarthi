@@ -16,6 +16,12 @@ Currently operating a proprietary **3-agent local infrastructure (Claude/Grok/MC
 ## 📌 Featured Live Projects
 1.  **C-Suite Magazine** - Premium B2B platform built on Next.js 14, Sanity CMS, Vercel Postgres, and Sentry monitoring.
 2.  **Antigravity Directory** - High-performance AEO keyword intelligence directory targeting global executives.
+    - **Execution Proof:** Scaled to 1K+ organic impressions and 7.3 avg Google position within 30 days.
+   
+    <p align="center">
+      <img src="gsc.png" alt="Google Search Console - 1K Impressions" width="45%">
+      <img src="ahrefs.png" alt="Ahrefs Dashboard - 13 Referring Domains" width="45%">
+    </p>
 3.  **Virtual Influencer Studio** - Advanced computer vision pipeline utilizing FLUX.1, PuLID facial locking, and custom LoRA training for 1:1 character consistency.
 
 ---
