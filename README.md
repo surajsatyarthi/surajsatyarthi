@@ -1,13 +1,13 @@
-# Suraj Satyarthi | 2x Founder | Fractional CPO & AI Orchestrator
+# Suraj Satyarthi | Fractional CPO & Senior PM | AI Builder
 
-I am a 2x Founder and 0-to-1 Product Leader who writes code. I bridge the gap between business strategy and technical execution for Seed to Series-A startups.
+I am a Senior Product Manager and 0-to-1 Product Leader who writes code. I bridge the gap between business strategy and technical execution for Seed to Series-A startups.
 
 Currently operating a proprietary **3-agent local infrastructure (Claude/Grok/MCP)** to architect, manage, and scale 13 separate codebases simultaneously. I don't just write PRDs; I ship production-grade Next.js/Supabase/Python applications faster than an agency.
 
 ## 🚀 Proven Outcomes
 *   **Organic Acquisition:** Engineered a programmatic SEO architecture (Next.js) that generated 1,000+ organic impressions and a 7.3 avg Google position within its first 30 days.
-*   **Enterprise Scale:** Saved INR 1.5 Crores and 2 years of dev time at Mercer (Nasdaq-listed) through strategic product redesign. Launched across 5 global markets (Brazil, EU, MENA, SEA).
-*   **Growth:** Scaled Kriger Campus to INR 1 Crore ARR (200% YoY). Recognized by NITI Aayog and WhatsApp/Meta for edtech innovation.
+*   **Enterprise Scale:** Saved **$180K** and 2 years of dev time at Mercer (Nasdaq-listed) through strategic product redesign. Launched across 5 global markets (Brazil, EU, MENA, SEA).
+*   **Growth:** Scaled Kriger Campus to **$120K** ARR (200% YoY). Recognized by NITI Aayog and WhatsApp/Meta for edtech innovation.
 
 ## 🧠 Current Infrastructure & Open Source
 *   **AI Agent Orchestration:** Built a custom multi-agent (Claude/Grok/Gemini) pipeline with PGLite vector databases, MCP token-optimizers, and automated failure-pattern tracking to manage cross-project context.
@@ -16,7 +16,7 @@ Currently operating a proprietary **3-agent local infrastructure (Claude/Grok/MC
 ## 📌 Featured Live Projects
 1.  **C-Suite Magazine** - Premium B2B platform built on Next.js 14, Sanity CMS, Vercel Postgres, and Sentry monitoring.
 2.  **Antigravity Directory** - High-performance AEO keyword intelligence directory targeting global executives.
-    - **Execution Proof:** Scaled to 1K+ organic impressions and 7.3 avg Google position within 30 days.
+    - **Execution Proof:** 1K+ organic impressions · avg Google position **7.3** · **13** referring domains · zero paid traffic.
    
     <p align="center">
       <img src="gsc.png" alt="Google Search Console - 1K Impressions" width="45%">
