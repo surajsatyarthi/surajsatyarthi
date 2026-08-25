@@ -1,29 +1,23 @@
-# Suraj Satyarthi | Fractional CPO & Senior PM | AI Builder
+# Suraj Satyarthi
 
-I am a Senior Product Manager and 0-to-1 Product Leader who writes code. I bridge the gap between business strategy and technical execution for Seed to Series-A startups.
+**Senior Product Manager | AI-Native Product Strategy | IIM Indore MBA**
 
-Currently operating a proprietary **3-agent local infrastructure (Claude/Grok/MCP)** to architect, manage, and scale 13 separate codebases simultaneously. I don't just write PRDs; I ship production-grade Next.js/Supabase/Python applications faster than an agency.
+9 years building and shipping B2B SaaS and AI-native products. Rescued a product from discontinuation and internationalised it across 5 global markets at Mercer, then led a 0→1 AI-driven trade intelligence platform at Business Market Network.
 
-## 🚀 Proven Outcomes
-*   **Organic Acquisition:** Engineered a programmatic SEO architecture (Next.js) that generated 1,000+ organic impressions and a 7.3 avg Google position within its first 30 days.
-*   **Enterprise Scale:** Saved **$180K** and 2 years of dev time at Mercer (Nasdaq-listed) through strategic product redesign. Launched across 5 global markets (Brazil, EU, MENA, SEA).
-*   **Growth:** Scaled Kriger Campus to **$120K** ARR (200% YoY). Recognized by NITI Aayog and WhatsApp/Meta for edtech innovation.
+I direct AI dev agents (Claude, Gemini, Grok) to prototype and ship product ideas fast — I don't personally write the code, I set the roadmap, direct the build, and validate outcomes.
 
-## 🧠 Current Infrastructure & Open Source
-*   **AI Agent Orchestration:** Built a custom multi-agent (Claude/Grok/Gemini) pipeline with PGLite vector databases, MCP token-optimizers, and automated failure-pattern tracking to manage cross-project context.
-*   **Tech Stack Mastery:** Next.js (14-16), TypeScript, Supabase (RLS security), Python, FLUX.1 + LoRA training, and Playwright/Vitest QA automation.
+## Track Record
 
-## 📌 Featured Live Projects
-1.  **C-Suite Magazine** - Premium B2B platform built on Next.js 14, Sanity CMS, Vercel Postgres, and Sentry monitoring.
-2.  **Antigravity Directory** - High-performance AEO keyword intelligence directory targeting global executives.
-    - **Execution Proof:** 1K+ organic impressions · avg Google position **7.3** · **13** referring domains · zero paid traffic.
-   
-    <p align="center">
-      <img src="gsc.png" alt="Google Search Console - 1K Impressions" width="45%">
-      <img src="ahrefs.png" alt="Ahrefs Dashboard - 13 Referring Domains" width="45%">
-    </p>
-3.  **Virtual Influencer Studio** - Advanced computer vision pipeline utilizing FLUX.1, PuLID facial locking, and custom LoRA training for 1:1 character consistency.
+- **Mercer** — Rescued SecureProctor from discontinuation, launched across 5 markets (Brazil, EU, MENA, SEA) at 15–25% penetration, saved ₹1.5 Cr ($180K) and 2 years of dev time.
+- **Business Market Network** — Repositioned from a B2B marketplace to an AI-driven trade intelligence platform serving 1,000+ exporters/importers, directing a team of 25.
+- **Kriger Campus** — Built an edtech community of 100,000+ students and educators from 0, featured by WhatsApp and Meta, recognised by NITI Aayog.
+
+## Directed Projects
+
+**Google Antigravity Directory** — Directed the build of an AI resource directory (Next.js, Sanity CMS), cataloguing 3,146+ resources across agents, workflows, and MCP tools. Ranked #6 organically on DuckDuckGo for its target query.
+
+**Multi-Agent AI Pipeline** — Directed a multi-agent orchestration system (Claude, Gemini, Grok) for automated research, outreach, and content generation across 13+ concurrent projects.
 
 ---
-**Availability:** Taking on 1 Fractional CPO engagement (max 20hrs/week) for a technical founder who needs a product leader, or a CEO who needs an MVP shipped. 
-📩 [LinkedIn](https://linkedin.com/in/surajsatyarthi) | 📧 i12surajs@iimidr.ac.in
+
+[LinkedIn](https://linkedin.com/in/surajsatyarthi) · i12surajs@iimidr.ac.in
