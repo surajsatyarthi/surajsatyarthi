@@ -14,7 +14,7 @@ I direct AI dev agents (Claude, Gemini, Grok) to prototype and ship product idea
 
 ## Directed Projects
 
-**Google Antigravity Directory** — Directed the build of an AI resource directory (Next.js, Sanity CMS), cataloguing 3,146+ resources across agents, workflows, and MCP tools. Ranked #6 organically on DuckDuckGo for its target query.
+**Google Antigravity Directory** — Directed the build of an AI resource directory (Next.js, Sanity CMS), cataloguing 3,146+ resources across agents, workflows, and MCP tools.
 
 **Multi-Agent AI Pipeline** — Directed a multi-agent orchestration system (Claude, Gemini, Grok) for automated research, outreach, and content generation across 13+ concurrent projects.
 
